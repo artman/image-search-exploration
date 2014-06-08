@@ -1,7 +1,9 @@
 image-search-exploration
 ========================
 
-Exploring infinite scrolling on iOS using Google's depracated image API that allows you to load 8 images at a time. Enjoy.
+Exploring infinite scrolling on iOS using Google's depracated image API that allows you to load 8 images at a time.
+
+Uses cocoapods, so open the workspace, not the project.
 
 Some notes / todo's:
 
