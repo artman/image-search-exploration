@@ -2,7 +2,7 @@
 //  main.m
 //  ImageSearchExploration
 //
-//  Created by Tuomas Artman on 5.6.2014.
+//  Created by Tuomas Artman on 6/7/2014.
 //  Copyright (c) 2014 Tuomas Artman. All rights reserved.
 //
 
